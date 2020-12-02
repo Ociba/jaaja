@@ -12,7 +12,7 @@
 </head>
 
 <body>
-
+<script src="//code.tidio.co/uoa42f5l1hmczzev53kzxympdw4h1tsa.js" async></script>
     @include('frontlayout.mobile-menu')
 
     <!--HEADER SECTION-->

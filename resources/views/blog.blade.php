@@ -25,7 +25,7 @@
 
     @include('frontlayout.slider2')
 
-    <section classs="m-2">
+    <section class="blog">
     <div class="full-bot-book1">
         <div class="cor-p5">
              <h3>Latest Blog nformation</h3>

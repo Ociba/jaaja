@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="con-title" style="text-align:center;" >
                     <h2> <span>What We Do As IT Company</span></h2>
-                    <p style="color:white;">Are you looking for outstanding yet cheap Software Solutions, then you’ve come to the right place. JAAJA has all the solutions for your Business Technology Neeeds.</p>
+                    <p style="color:white;">Are you looking for outstanding yet cheap Software Solutions, then you’ve come to the right place. JAAJA has all the solutions for your Business Technology Needs.</p>
                 </div>
             </div>
             <div class="row">
@@ -20,10 +20,10 @@
                                 <h3 style="text-align:left;">Full IT Software Package</h3>
                                 <ul class="nav nav-tabs">
                                     <li class="active"><a data-toggle="tab" href="#home">
-									 Back</a>
+									 Back end</a>
                                     </li>
-                                    <li><a data-toggle="tab" href="#menu1">Front</a></li>
-                                    <li><a data-toggle="tab" href="#menu2">Mobile</a></li>
+                                    <li><a data-toggle="tab" href="#menu1">Front end</a></li>
+                                    <li><a data-toggle="tab" href="#menu2">Mobile  app</a></li>
                                     <li><a data-toggle="tab" href="#graphics">Graphics</a></li>
                                 </ul>
 

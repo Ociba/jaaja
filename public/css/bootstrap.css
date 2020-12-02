@@ -3398,7 +3398,7 @@ html {
 }
  .nav-tabs > li {
      float: left;
-     margin-bottom: -1px;
+     margin-bottom: 10px;
 }
  .nav-tabs > li > a {
      margin-right: 15px;

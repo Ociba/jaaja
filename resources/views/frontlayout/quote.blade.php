@@ -5,7 +5,7 @@
                 <div class="cor about-sp">
                     <div class="ed-about-tit">
                         <div class="con-title">
-                            <h2>REQUEST A SERRVICE  <span> TODAY</span></h2>
+                            <h2>REQUEST A SERVICE  <span> TODAY</span></h2>
 
                         </div>
                     </div>
